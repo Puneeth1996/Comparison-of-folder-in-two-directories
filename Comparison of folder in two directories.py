@@ -1,4 +1,4 @@
-# Compare file that are present in two diffrent directories
+# Compare file that are present in two different directories
 import os
 import time
 
